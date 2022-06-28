@@ -1,0 +1,7 @@
+Limpara CACHE do SQUID 
+rm -rf /var/squid/cache/*
+squid -z
+
+Ver propriedades de Páginas
+
+Ctrl+Shift_I
